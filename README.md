@@ -10,9 +10,9 @@ Welcome to my data analytics portfolio! Here, I document a summary of my project
 
 
 ## SQL
-| Project Link | Area of Analysis | Project Description |
+| Project Link | Project Description |
 |--------------|-----------------|---------------------|
-|🔗 [8-Week SQL Challenges](#) | Data analysis, data cleaning, data transformation | This repository serves as the solution for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+|🔗 [SAN FRANCISCO RESTAURANTS HEALTH VIOLATIONS ANALYSIS](#) |In this self-developed case study, we delve into the health violations in San Francisco's restaurants, focusing on identifying patterns, trends, and severity. Utilizing SQL for data analysis and Python for data transformation, we generated valuable insights and also developed a function to calculate inspection scores for specific violations.|
 |🔗 [Health Analytics Case Study](#) | Health analysis | In this case study, I answer business questions related to patients' data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users.|
 
 ## Python
