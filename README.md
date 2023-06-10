@@ -1,1 +1,40 @@
-# My-Portfolio
+# 🗺 Mudit's Data Analytics Portfolio
+
+Welcome to my data analytics portfolio! Here, I document a summary of my projects in the data field.
+
+## 📚 Table of Contents
+1. [SQL](#SQL)
+2. [Python](#Python)
+3. [Web Scraping](#Web-Scraping)
+4. [Tableau](#Tableau)
+
+
+## SQL
+| Project Link | Area of Analysis | Project Description |
+|--------------|-----------------|---------------------|
+|🔗 [8-Week SQL Challenges](#) | Data analysis, data cleaning, data transformation | This repository serves as the solution for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+|🔗 [Health Analytics Case Study](#) | Health analysis | In this case study, I answer business questions related to patients' data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users.|
+
+## Python
+| Project Link | Area | Project Description | Libraries |
+|--------------|------|---------------------|-----------|
+|🔗 [CS50P - Ongoing](#) | Programming | This repo contains the solution to the problem sets in Harvard's CS50P Introduction to Programming with Python.|-|
+|🔗 [TMDb Movie Analysis](#) | Data Wrangling & EDA | I analyzed more than 10,000 TMDb movies, exploring aspects such as which actor(s) is associated with higher revenue and profit, does a higher budget constitute a higher profit, and which director produced the highest-grossing movie.| pandas, matplotlib |
+
+## Web Scraping
+| Project Link | Area | Project Description | Libraries |
+|--------------|------|---------------------|-----------|
+|🔗 [Amazon Product Scraper](#) | Web Scraping | A Python script that automatically scrapes Amazon product information such as product title, price, and rating, and saves the data in a CSV file.| BeautifulSoup, requests |
+|🔗 [Reddit Data Scraper](#) | Web Scraping | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. | PRAW |
+
+## Tableau
+| Project Link | Project Description | Dashboard Link |
+|--------------|---------------------|----------------|
+|🔗 [Maven Unicorn Challenge](#) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualized key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation.| 🔗 [Dashboard](#) |
+|🔗 [Covid-19 and the Impact on Malaysia Stock Market](#) | A project close to 🏡 home. Inspired by Alex Freberg's Data Exploration Project, I analyzed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | 🔗 [Dashboard](#) |
+
+
+
+Thank you for visiting my portfolio. If you have any questions or would like to collaborate, feel free to reach out!
+
+_Mudit_
