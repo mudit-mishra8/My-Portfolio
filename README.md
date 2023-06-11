@@ -2,7 +2,7 @@
 
 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
-## 📚 Table of Contents
+## 📚 Table of Content
 1. [SQL](#SQL)
 2. [PYTHON](#Python)
 3. [WEB SCRAPING](#Web-Scraping)
