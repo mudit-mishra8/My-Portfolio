@@ -1,4 +1,4 @@
-# 🗺 Mudit's Data Analytics Portfolio
+# 💼 Mudit's Data Analytics Portfolio
 
 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
