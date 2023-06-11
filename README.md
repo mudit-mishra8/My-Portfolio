@@ -4,9 +4,9 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 
 ## 📚 Table of Contents
 1. [SQL](#SQL)
-2. [Python](#Python)
-3. [Web Scraping](#Web-Scraping)
-4. [Tableau](#Tableau)
+2. [PYTHON](#Python)
+3. [WEB SCRAPING](#Web-Scraping)
+4. [TABLEAU](#Tableau)
 
 
 ## SQL
