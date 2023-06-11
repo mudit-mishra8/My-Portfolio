@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! Here, I document a summary of my project
 
 
 ## SQL
-| Project Link | Area Of Analysis| Project Description |
+| Project Link          | Area Of Analysis| Project Description |
 |-----------------------|--------------|---------------------------|
 |🔗 [SAN FRANCISCO RESTAURANTS HEALTH VIOLATIONS ANALYSIS](https://github.com/mudit-mishra8/SAN-FRANCISCO-RESTAURANTS-HEALTH-VIOLATIONS-ANALYSIS/blob/main/README.md) | Health analysis | In this self-developed case study, we delve into the health violations in San Francisco's restaurants, focusing on identifying patterns, trends, and severity. Utilizing SQL for data analysis and Python for data transformation, we generated valuable insights and also developed a function to calculate inspection scores for specific violations.|
 |🔗 [SPOTIFY DATA ANALYSIS](https://github.com/mudit-mishra8/Spotift-SQL-Case-Study/blob/main/README.md) | User Activity Analysis | In this project, we conducted a case study using MySQL queries to analyze user activity data for Spotify. By delving into crucial metrics such as installations, purchases, and conversion rates, our aim was to provide valuable insights that enable Spotify to make data-driven decisions.|
