@@ -1,6 +1,6 @@
 # 🗺 Mudit's Data Analytics Portfolio
 
-🎢📊 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
+Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
 ## 📚 Table of Contents
 1. [SQL](#SQL)
