@@ -30,7 +30,7 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 |--------------|------|---------------------|
 |🎬[IMDB Sentiment Analysis](#) | Natural Language Processing |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
 |🏠[Zillow Z-estimate Prediction](#) |Linear Regression | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
-|🍷[Wine Quality Prediction](#) |Classification | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
+|🍷[Wine Quality & Type Prediction](#) |Classification | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
 
 ## Tableau
 | Project Link | Project Description | Dashboard Link |
