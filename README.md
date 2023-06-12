@@ -5,7 +5,7 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 ## 📚 Table of Content
 1. [SQL](#SQL)
 2. [PYTHON](#Python)
-3. [WEB SCRAPING](#Web-Scraping)
+3. [Machine Learning](#Machine-Learning)
 4. [TABLEAU](#Tableau)
 
 
@@ -25,10 +25,10 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 |🔗 [CS50P - Ongoing](#) | Programming | This repo contains the solution to the problem sets in Harvard's CS50P Introduction to Programming with Python.|-|
 |🔗 [TMDb Movie Analysis](#) | Data Wrangling & EDA | I analyzed more than 10,000 TMDb movies, exploring aspects such as which actor(s) is associated with higher revenue and profit, does a higher budget constitute a higher profit, and which director produced the highest-grossing movie.| pandas, matplotlib |
 
-## Web Scraping
-| Project Link | Area | Project Description | Libraries |
-|--------------|------|---------------------|-----------|
-|🔗 [Amazon Product Scraper](#) | Web Scraping | A Python script that automatically scrapes Amazon product information such as product title, price, and rating, and saves the data in a CSV file.| BeautifulSoup, requests |
+## Machine Learning
+| Project Link | Area | Project Description |
+|--------------|------|---------------------|
+|🎬[IMDB Sentiment Analysis](#) | Natural Lamguage Processing |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
 |🔗 [Reddit Data Scraper](#) | Web Scraping | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. | PRAW |
 
 ## Tableau
