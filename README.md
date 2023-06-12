@@ -5,7 +5,7 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 ## 📚 Table of Content
 1. [SQL](#SQL)
 2. [PYTHON](#Python)
-3. [Machine Learning](#Machine-Learning)
+3. [MACHINE LEARNING](#Machine-Learning)
 4. [TABLEAU](#Tableau)
 
 
@@ -28,7 +28,7 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 ## Machine Learning
 | Project Link | Area | Project Description |
 |--------------|------|---------------------|
-|🎬[IMDB Sentiment Analysis](#) | Natural Lamguage Processing |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
+|🎬[IMDB Sentiment Analysis](#) | Natural Language Processing |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
 |🔗 [Reddit Data Scraper](#) | Web Scraping | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. | PRAW |
 
 ## Tableau
