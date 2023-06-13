@@ -2,7 +2,8 @@
 
 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
-Before moving forward, check out my latest machine learning creation,right click to open in a new tab! 👉 <a href="https://imdb-app.herokuapp.com/" target="_blank">MyMovieSentimentAnalyzer</a>
+Before moving forward, check out my latest machine learning creation, right click to open in a new tab! 
+👉 <a href="https://imdb-app.herokuapp.com/" target="_blank">MyMovieSentimentAnalyzer</a>
 
 ## 📚 Table of Content
 1. [SQL](#SQL)
@@ -30,7 +31,7 @@ Before moving forward, check out my latest machine learning creation,right click
 ## Machine Learning
 | Project Link | Area |Website | Project Description |
 |--------------|------|--------|------------|
-|🎬[IMDB Sentiment Analysis](#) | Natural Language Processing | [Click here](https://imdb-app.herokuapp.com/)  |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
+|🎬[IMDB Sentiment Analysis](#) | Natural Language Processing |right click to open in a new tab 👉 [Click here](https://imdb-app.herokuapp.com/)  |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
 |🏠[Zillow Z-estimate Prediction](#) |Linear Regression | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
 |🍷[Wine Quality & Type Prediction](#) |Classification | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
 
