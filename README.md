@@ -1,4 +1,4 @@
-# 🧑‍💻 Mudit's Data Analytics Portfolio
+# 🧑‍💻 Mudit's Portfolio
 
 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
@@ -26,9 +26,9 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 |🔗 [TMDb Movie Analysis](#) | Data Wrangling & EDA | I analyzed more than 10,000 TMDb movies, exploring aspects such as which actor(s) is associated with higher revenue and profit, does a higher budget constitute a higher profit, and which director produced the highest-grossing movie.| pandas, matplotlib |
 
 ## Machine Learning
-| Project Link | Area | Project Description |
-|--------------|------|---------------------|
-|🎬[IMDB Sentiment Analysis](#) | Natural Language Processing |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
+| Project Link | Area |Website | Project Description |
+|--------------|------|--------|------------|
+|🎬[IMDB Sentiment Analysis](#) | Natural Language Processing | [Click here](https://imdb-app.herokuapp.com/)  |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
 |🏠[Zillow Z-estimate Prediction](#) |Linear Regression | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
 |🍷[Wine Quality & Type Prediction](#) |Classification | A Python script to scrape data from Reddit posts, including title, upvotes, and content, using the Reddit API. |
 
