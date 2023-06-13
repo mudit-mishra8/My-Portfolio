@@ -2,7 +2,7 @@
 
 Welcome to my data playground! Here, you'll discover a vibrant spectrum of data projects I've passionately crafted. So, dive in and enjoy the data-driven ride!
 
-Before moving forward, check out my latest machine learning creation 👉 [MyMovieSentimentAnalyzer](https://imdb-app.herokuapp.com/)
+Before moving forward, check out my latest machine learning creation 👉 [MyMovieSentimentAnalyzer](https://imdb-app.herokuapp.com/){:target="_blank"}
 
 ## 📚 Table of Content
 1. [SQL](#SQL)
