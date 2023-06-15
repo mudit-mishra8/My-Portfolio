@@ -24,7 +24,7 @@ Check out my latest machine learning creation, right click to open in a new tab!
 ## Python
 | Project Link | Area | Project Description | 
 |--------------|------|---------------------|
-|🕷️ [Top 250 Films](https://github.com/mudit-mishra8/Imdb-web-scrapping/blob/main/README.md) |Web Scrapping |Utilized Python's BeautifulSoup library to successfully extract key data of the Top 250 movies listed on IMDb. This comprehensive web scraping project captured detailed attributes of each film, including title, director, cast, genre, release date, and financials, which set a robust foundation for the subsequent data analysis.|
+|🕷️ [Top 250 Films](https://github.com/mudit-mishra8/Imdb-web-scrapping/blob/main/README.md) |Web Scrapping |Utilized Python's BeautifulSoup library to successfully extract key data of the Top 250 Films listed on IMDb. This comprehensive web scraping project captured detailed attributes of each film, including title, director, cast, genre, release date, and financials, which set a robust foundation for the subsequent data analysis.|
 |🎞️ [Cinema](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/README.md) |Data Analytics| Applied rigorous data cleaning, feature engineering, and advanced statistical methods to analyze the dataset obtained from IMDb. This project offered illuminating insights into trends and patterns within the movie industry, such as genre popularity, director influence, and financial performance. Proved the value of data-driven decision making in the competitive cinema landscape.|
 
 ## Machine Learning
