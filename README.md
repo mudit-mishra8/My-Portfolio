@@ -4,7 +4,7 @@ Welcome to my data playground! Here, you'll discover a vibrant spectrum of data 
 
 Check out my latest machine learning creation, right click to open in a new tab! 👉 <a href="https://imdb-app.herokuapp.com/" target="_blank">MyMovieSentimentAnalyzer</a>
 
-Check out my latest application to explore trends in Olympics data! 👉[Olympics Analyzer](https://olympics-analysis-by-mudit-app-d05d3c3a4d2c.herokuapp.com)  
+Check out my latest application to explore trends in Olympics data! 👉[Olympics Analyzer](https://olympics-analysis-by-mudit-app-d05d3c3a4d2c.herokuapp.com)   
 
 ## 📚 Table of Content
 1. [SQL](#SQL)
