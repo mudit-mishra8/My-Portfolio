@@ -40,11 +40,10 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 |🍷[Wine Type & Quality Prediction](https://github.com/mudit-mishra8/wine/blob/main/README.md) |Classification | | This project utilizes machine learning algorithms to predict wine quality as good or bad and determine wine type as red or white. By analyzing chemical properties of wines, it employs various models like Random Forest Logistic Regression,etc. The project aims to assist winemakers in quality control and production optimization, while empowering consumers in making informed choices. It showcases an in-depth approach to data processing, feature engineering, and model evaluation, achieving remarkable accuracy. |
 
 ## Tableau
-| Project Link | Project Description | Dashboard Link |
-|--------------|---------------------|----------------|
-|🔗 [Maven Unicorn Challenge](#) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualized key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation.| 🔗 [Dashboard](#) |
-|🔗 [Covid-19 and the Impact on Malaysia Stock Market](#) | A project close to 🏡 home. Inspired by Alex Freberg's Data Exploration Project, I analyzed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | 🔗 [Dashboard](#) |
-
+| Dashboard Link | Project Description |
+|--------------|---------------------|
+|🎭 [IMdb Top 250 Segmentation](https://public.tableau.com/app/profile/mudit6210/viz/MovieSegmentationDashboardIMDBtop250moviesNew/MovieSegmentation) |Utilizing IMDb's Top 250 movies data extracted personally, the Tableau project focuses on insightful segmentation analysis, revealing patterns and trends among high-rated movies across various categories and time periods.| 
+|🏦 [UK Bank Customer Analysis](https://public.tableau.com/app/profile/mudit6210/viz/UKBankCustomersdistribution_16873274283160/Bankcustomers?publish=yes) |In this Tableau project, I visualized UK bank customer data, showcasing a comprehensive breakdown by gender and collar job type. Additionally, the project presents a detailed analysis of age distribution among customers, providing valuable insights into demographic trends within the banking sector.|
 
 
 Thank you for visiting my portfolio. If you have any questions or would like to collaborate, feel free to reach out!
