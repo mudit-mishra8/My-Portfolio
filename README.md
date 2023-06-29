@@ -10,9 +10,8 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 1. [SQL](#SQL)
 2. [PYTHON](#Python)
 3. [MACHINE LEARNING](#Machine-Learning)
-4. [TABLEAU](#Tableau)
-5. [DATA ENGINEERING](#Data-Engineering)
-
+4. [DATA ENGINEERING](#Data-Engineering)
+5. [Data Vizualization: Tableau](#Tableau)
 
 ## SQL
 | Project Link  | Area Of Analysis| Project Description |
@@ -40,18 +39,19 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 |💝[DonorsChoose](https://github.com/mudit-mishra8/donors-choose/blob/main/README.md) |Binary Classification |  |This project involves developing a machine learning model to predict the approval of project proposals submitted by teachers to DonorsChoose.org. By analyzing the text of project descriptions along with metadata about the project, teacher, and school, the model aids in efficiently vetting the increasing number of submissions. This allows quicker approvals, more focused volunteer review, and accelerates funding for classrooms across the country.|
 |🍷[Wine Type & Quality Prediction](https://github.com/mudit-mishra8/wine/blob/main/README.md) |Classification | | This project utilizes machine learning algorithms to predict wine quality as good or bad and determine wine type as red or white. By analyzing chemical properties of wines, it employs various models like Random Forest Logistic Regression,etc. The project aims to assist winemakers in quality control and production optimization, while empowering consumers in making informed choices. It showcases an in-depth approach to data processing, feature engineering, and model evaluation, achieving remarkable accuracy. |
 
-## Tableau
-| Dashboard Link | Project Description |
-|--------------|---------------------|
-|🎭 [IMdb Top 250 Segmentation](https://public.tableau.com/app/profile/mudit6210/viz/MovieSegmentationDashboardIMDBtop250moviesNew/MovieSegmentation) |Utilizing IMDb's Top 250 movies data extracted personally, the Tableau project focuses on insightful segmentation analysis, revealing patterns and trends among high-rated movies across various categories and time periods.| 
-|🏦 [UK Bank Customer Analysis](https://public.tableau.com/app/profile/mudit6210/viz/UKBankCustomersdistribution_16873274283160/Bankcustomers?publish=yes) |In this Tableau project, I visualized UK bank customer data, showcasing a comprehensive breakdown by gender and collar job type. Additionally, the project presents a detailed analysis of age distribution among customers, providing valuable insights into demographic trends within the banking sector.|
-
 
 ## Data Engineering
 | Project Link | Area |Language and Tools| Project Description |
 |--------------|------|--------|------------|
 |⚙️[Data Lake ETL with AWS Glue and PySpark](https://github.com/mudit-mishra8/ETL-Glue-Basic/blob/main/README.md#Step-3-Create-Database-in-AWS-Lake-Formation) |ETL (Extract, Transform, Load) |PySpark, AWS Glue, Amazon S3, AWS Lake Formation, IAM, AWS Glue Crawlers, Jupyter Notebook |This project involves leveraging AWS Glue with PySpark to implement an ETL (Extract, Transform, Load) job, which extracts data from different sources stored in an AWS S3-based data lake, performs transformations including joining two datasets, and then loads the result back into S3. The ETL process is automated and managed using AWS Glue Jobs and Glue Crawlers for efficient metadata handling. The project showcases cloud-based big data processing and data engineering competencies.|
 
+
+
+## Tableau
+| Dashboard Link | Project Description |
+|--------------|---------------------|
+|🎭 [IMdb Top 250 Segmentation](https://public.tableau.com/app/profile/mudit6210/viz/MovieSegmentationDashboardIMDBtop250moviesNew/MovieSegmentation) |Utilizing IMDb's Top 250 movies data extracted personally, the Tableau project focuses on insightful segmentation analysis, revealing patterns and trends among high-rated movies across various categories and time periods.| 
+|🏦 [UK Bank Customer Analysis](https://public.tableau.com/app/profile/mudit6210/viz/UKBankCustomersdistribution_16873274283160/Bankcustomers?publish=yes) |In this Tableau project, I visualized UK bank customer data, showcasing a comprehensive breakdown by gender and collar job type. Additionally, the project presents a detailed analysis of age distribution among customers, providing valuable insights into demographic trends within the banking sector.|
 
 
 Thank you for visiting my portfolio. If you have any questions or would like to collaborate, feel free to reach out!
