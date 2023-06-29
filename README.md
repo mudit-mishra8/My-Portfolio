@@ -11,6 +11,7 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 2. [PYTHON](#Python)
 3. [MACHINE LEARNING](#Machine-Learning)
 4. [TABLEAU](#Tableau)
+5. [Data Engineering](#Data-Engineering)
 
 
 ## SQL
@@ -44,6 +45,13 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 |--------------|---------------------|
 |🎭 [IMdb Top 250 Segmentation](https://public.tableau.com/app/profile/mudit6210/viz/MovieSegmentationDashboardIMDBtop250moviesNew/MovieSegmentation) |Utilizing IMDb's Top 250 movies data extracted personally, the Tableau project focuses on insightful segmentation analysis, revealing patterns and trends among high-rated movies across various categories and time periods.| 
 |🏦 [UK Bank Customer Analysis](https://public.tableau.com/app/profile/mudit6210/viz/UKBankCustomersdistribution_16873274283160/Bankcustomers?publish=yes) |In this Tableau project, I visualized UK bank customer data, showcasing a comprehensive breakdown by gender and collar job type. Additionally, the project presents a detailed analysis of age distribution among customers, providing valuable insights into demographic trends within the banking sector.|
+
+
+## Data Engineering
+| Project Link | Area |Language and Tools| Project Description |
+|--------------|------|--------|------------|
+|🎬[Sentiment Analysis](https://github.com/mudit-mishra8/Movie-Sentiment-ML/blob/main/README.md) | Natural Language Processing |right click to open in a new tab 👉 [Click here](https://imdb-app.herokuapp.com/)  |In this project, I employ deep learning techniques to analyze a balanced dataset of 50,000 IMDB movie reviews. Through data preprocessing, Word2Vec vectorization, and model training, I develop an insightful model capable of classifying a movie review's sentiment as either positive or negative, and offer a user-friendly function for real-time sentiment predictions.|
+
 
 
 Thank you for visiting my portfolio. If you have any questions or would like to collaborate, feel free to reach out!
