@@ -11,7 +11,7 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 2. [PYTHON](#Python)
 3. [MACHINE LEARNING](#Machine-Learning)
 4. [DATA ENGINEERING](#Data-Engineering)
-5. [Data Vizualization: Tableau](#Tableau)
+5. [DATA VIZUALIZATION: TABLEAU](#Tableau)
 
 ## SQL
 | Project Link  | Area Of Analysis| Project Description |
