@@ -50,7 +50,7 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 ## Data Engineering
 | Project Link | Area |Language and Tools| Project Description |
 |--------------|------|--------|------------|
-|☁️⚙️[Data Lake ETL with AWS Glue and PySpark](https://github.com/mudit-mishra8/ETL-Glue-Basic/blob/main/README.md#Step-3-Create-Database-in-AWS-Lake-Formation) |ETL|PySpark, AWS Glue, Amazon S3, AWS Lake Formation, IAM, AWS Glue Crawlers, Jupyter Notebook |This project involves leveraging AWS Glue with PySpark to implement an ETL (Extract, Transform, Load) job, which extracts data from different sources stored in an AWS S3-based data lake, performs transformations including joining two datasets, and then loads the result back into S3. The ETL process is automated and managed using AWS Glue Jobs and Glue Crawlers for efficient metadata handling. The project showcases cloud-based big data processing and data engineering competencies.|
+|⚙️[Data Lake ETL with AWS Glue and PySpark](https://github.com/mudit-mishra8/ETL-Glue-Basic/blob/main/README.md#Step-3-Create-Database-in-AWS-Lake-Formation) |ETL|PySpark, AWS Glue, Amazon S3, AWS Lake Formation, IAM, AWS Glue Crawlers, Jupyter Notebook |This project involves leveraging AWS Glue with PySpark to implement an ETL (Extract, Transform, Load) job, which extracts data from different sources stored in an AWS S3-based data lake, performs transformations including joining two datasets, and then loads the result back into S3. The ETL process is automated and managed using AWS Glue Jobs and Glue Crawlers for efficient metadata handling. The project showcases cloud-based big data processing and data engineering competencies.|
 
 
 
