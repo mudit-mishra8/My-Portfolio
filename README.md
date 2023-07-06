@@ -44,7 +44,7 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 | Project Link | Area |Language and Tools| Project Description |
 |--------------|------|--------|------------|
 |⚙️[Data Lake ETL with AWS Glue and PySpark](https://github.com/mudit-mishra8/ETL-Glue-Basic/blob/main/README.md#Step-3-Create-Database-in-AWS-Lake-Formation) |ETL (Extract, Transform, Load) |PySpark, AWS Glue, Amazon S3, AWS Lake Formation, IAM, AWS Glue Crawlers, Jupyter Notebook |This project involves leveraging AWS Glue with PySpark to implement an ETL (Extract, Transform, Load) job, which extracts data from different sources stored in an AWS S3-based data lake, performs transformations including joining two datasets, and then loads the result back into S3. The ETL process is automated and managed using AWS Glue Jobs and Glue Crawlers for efficient metadata handling. The project showcases cloud-based big data processing and data engineering competencies.|
-
+|⚙️[Spotify Data Pipeline with AWS](https://github.com/mudit-mishra8/ETL-Spotify/blob/main/README.md) |ETL (Extract, Transform, Load) |Lambda, AWS Glue, Amazon S3, AWS Lake Formation,Event Bridge,AWS Glue, Jupyter Notebook |This data engineering project, hosted on AWS, seamlessly orchestrates the daily extraction of global playlist data from Spotify's API. It employs AWS Lambda functions for data transformation and cleansing, and then stores the structured data in S3 buckets. By utilizing AWS Glue for data cataloging and Amazon Athena for querying, the project provides an efficient and scalable solution for in-depth music trend analysis.|
 
 
 ## Tableau
