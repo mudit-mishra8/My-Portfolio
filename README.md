@@ -31,7 +31,7 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 |🕸️ [Top 250 Films](https://github.com/mudit-mishra8/Imdb-web-scrapping/blob/main/README.md) |Web Scrapping |Utilized Python's BeautifulSoup library to successfully extract key data of the Top 250 Films listed on IMDb. This comprehensive web scraping project captured detailed attributes of each film, including title, director, cast, genre, release date, and financials, which set a robust foundation for the subsequent data analysis.|
 |🏠 [Zillow Zestimate](https://github.com/mudit-mishra8/Zillow/blob/main/README.md) |Web Scrapping & Linear Regression|In my two-part Zillow project, I first wield web scraping techniques to gather housing data. Next, I transform this raw data into a polished gem through cleaning, feature engineering, and crafting a linear regression model.|
 |🎞️ [Cinema](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/README.md) |Data Analytics| Applied rigorous data cleaning, feature engineering, and advanced statistical methods to analyze the dataset obtained from IMDb. This project offered illuminating insights into trends and patterns within the movie industry, such as genre popularity, director influence, and financial performance.|
-
+ 
 ## Machine Learning
 | Project Link | Area |Website | Project Description |
 |--------------|------|--------|------------|
