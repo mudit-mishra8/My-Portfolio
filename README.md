@@ -9,8 +9,8 @@ Here is my latest application to explore trends in Olympics data! 👉 [Olympics
 ## 📚 Table of Content
 1. [SQL](#SQL)
 2. [PYTHON](#Python)
-3. [MACHINE LEARNING](#Machine-Learning)
-4. [DATA ENGINEERING](#Data-Engineering)
+3. [DATA ENGINEERING](#Data-Engineering)  
+4. [MACHINE LEARNING](#Machine-Learning) 
 5. [DATA VIZUALIZATION: TABLEAU](#Tableau)
 
 ## SQL
